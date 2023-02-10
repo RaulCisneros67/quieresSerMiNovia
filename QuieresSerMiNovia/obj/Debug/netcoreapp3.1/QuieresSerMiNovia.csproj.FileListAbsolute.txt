@@ -1,0 +1,17 @@
+C:\Users\cisne\Desktop\QuieresSerMiNovia\QuieresSerMiNovia\bin\Debug\netcoreapp3.1\QuieresSerMiNovia.exe
+C:\Users\cisne\Desktop\QuieresSerMiNovia\QuieresSerMiNovia\bin\Debug\netcoreapp3.1\QuieresSerMiNovia.deps.json
+C:\Users\cisne\Desktop\QuieresSerMiNovia\QuieresSerMiNovia\bin\Debug\netcoreapp3.1\QuieresSerMiNovia.runtimeconfig.json
+C:\Users\cisne\Desktop\QuieresSerMiNovia\QuieresSerMiNovia\bin\Debug\netcoreapp3.1\QuieresSerMiNovia.runtimeconfig.dev.json
+C:\Users\cisne\Desktop\QuieresSerMiNovia\QuieresSerMiNovia\bin\Debug\netcoreapp3.1\QuieresSerMiNovia.dll
+C:\Users\cisne\Desktop\QuieresSerMiNovia\QuieresSerMiNovia\bin\Debug\netcoreapp3.1\QuieresSerMiNovia.pdb
+C:\Users\cisne\Desktop\QuieresSerMiNovia\QuieresSerMiNovia\obj\Debug\netcoreapp3.1\QuieresSerMiNovia.csproj.AssemblyReference.cache
+C:\Users\cisne\Desktop\QuieresSerMiNovia\QuieresSerMiNovia\obj\Debug\netcoreapp3.1\QuieresSerMiNovia.Form1.resources
+C:\Users\cisne\Desktop\QuieresSerMiNovia\QuieresSerMiNovia\obj\Debug\netcoreapp3.1\QuieresSerMiNovia.Properties.Resources.resources
+C:\Users\cisne\Desktop\QuieresSerMiNovia\QuieresSerMiNovia\obj\Debug\netcoreapp3.1\QuieresSerMiNovia.csproj.GenerateResource.cache
+C:\Users\cisne\Desktop\QuieresSerMiNovia\QuieresSerMiNovia\obj\Debug\netcoreapp3.1\QuieresSerMiNovia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cisne\Desktop\QuieresSerMiNovia\QuieresSerMiNovia\obj\Debug\netcoreapp3.1\QuieresSerMiNovia.AssemblyInfoInputs.cache
+C:\Users\cisne\Desktop\QuieresSerMiNovia\QuieresSerMiNovia\obj\Debug\netcoreapp3.1\QuieresSerMiNovia.AssemblyInfo.cs
+C:\Users\cisne\Desktop\QuieresSerMiNovia\QuieresSerMiNovia\obj\Debug\netcoreapp3.1\QuieresSerMiNovia.csproj.CoreCompileInputs.cache
+C:\Users\cisne\Desktop\QuieresSerMiNovia\QuieresSerMiNovia\obj\Debug\netcoreapp3.1\QuieresSerMiNovia.dll
+C:\Users\cisne\Desktop\QuieresSerMiNovia\QuieresSerMiNovia\obj\Debug\netcoreapp3.1\QuieresSerMiNovia.pdb
+C:\Users\cisne\Desktop\QuieresSerMiNovia\QuieresSerMiNovia\obj\Debug\netcoreapp3.1\QuieresSerMiNovia.genruntimeconfig.cache
